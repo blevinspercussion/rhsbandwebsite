@@ -31,6 +31,11 @@ header {
   width: 100vw;
 }
 
+hr {
+  border: 1px solid black;
+  width: 100vw;
+}
+
 footer {
   background-color: #d9d9d9;
   padding-top: 5rem;
@@ -47,7 +52,7 @@ nav ul {
   align-items: center;
   justify-content: space-evenly;
   width: 80vw;
-  padding-top: 1rem;
+  padding: 1.5rem;
 }
 
 li {
